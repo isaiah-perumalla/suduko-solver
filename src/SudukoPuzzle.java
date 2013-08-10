@@ -72,25 +72,6 @@ public class SudukoPuzzle {
         return 6;
     }
 
-    public  String asString() {
-
-        StringBuilder sb = new StringBuilder();
-        for(int i=0; i<grid.length; i++)   {
-            for(int j=0; j<grid[0].length; j++) {
-                if(j==3 || j==6) sb.append("|");
-                sb.append(grid[i][j]).append(" ");
-            }
-            sb.append(System.lineSeparator());
-            if(i==2 || i==5) {
-                for(int j=0; j<10; j++){
-                    sb.append("- ");
-                }
-                sb.append(System.lineSeparator());
-            }
-        }
-        return sb.toString();
-    }
-
     public void displayOn(Appendable appendable) throws IOException {
 
         for(int i=0; i<grid.length; i++)   {
