@@ -89,7 +89,7 @@
       <file leaf-file-name="SudukoSolverTests.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SudukoSolverTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="23" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.10616438">
+            <state line="78" column="20" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.1609589">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,7 +214,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.SudukoSolverTests.testHardPuzzle">
+  <component name="RunManager" selected="JUnit.SudukoSolverTests.testHardPuzzle2">
     <configuration default="false" name="SudukoSolverTests.testSolver" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="suduko" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -244,6 +244,28 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SudukoSolverTests" />
       <option name="METHOD_NAME" value="testHardPuzzle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SudukoSolverTests.testHardPuzzle2" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="suduko" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SudukoSolverTests" />
+      <option name="METHOD_NAME" value="testHardPuzzle2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -347,14 +369,16 @@
       <patterns />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testSolver" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testHardPuzzle" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testHardPuzzle2" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testHardPuzzle" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testSolver" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testHardPuzzle2" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testHardPuzzle" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SudukoSolverTests.testSolver" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -497,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SudukoSolverTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="23" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.10616438">
+        <state line="78" column="20" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.1609589">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
